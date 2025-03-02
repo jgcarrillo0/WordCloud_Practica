@@ -31,6 +31,6 @@ Para una correcta ejecución de la práctica debe instalar en su entorno las sig
 
 ## 🏆 Visualice la práctica
 > [!TIP]
-> Visualice el cuaderno en nbviewer aquí: [Práctica: nube de palabras](https://nbviewer.org/github/jgcarrillo0/WordCloud_Practica/blob/main/Cuaderno/Word_cloud.ipynb)
+> Visualice el cuaderno en nbviewer aquí: [Práctica: Nube de palabras](https://nbviewer.org/github/jgcarrillo0/WordCloud_Practica/blob/main/Cuaderno/Word_cloud.ipynb)
 
 
