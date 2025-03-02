@@ -1,11 +1,15 @@
 # Word Cloud: Nube de palabras
 
-![nube_plantilla](https://github.com/jgcarrillo0/Word_Cloud/blob/main/Cuaderno/recursos/imagenes/nube_plantilla.jpg)
+<p align="center">
+    <img src="Cuaderno/recursos/imagenes/nube_plantilla.jpg" />
+</p>
 
 ## 📌Objetivo de la práctica
 El objetivo del ejercicio es generar nubes de palabras a partir de un texto, permitiendo visualizar de manera rápida e intuitiva las palabras más relevantes. Esta técnica facilita el análisis exploratorio del contenido, destacando términos con mayor frecuencia de aparición y proporcionando una representación gráfica que ayuda a identificar patrones y temas clave.
 
-![nube_plantilla](https://github.com/jgcarrillo0/Word_Cloud/blob/main/Cuaderno/recursos/imagenes/nube.jpg)
+<p align="center">
+    <img src="Cuaderno/recursos/imagenes/nube.jpg" />
+</p>
 
 ## Conceptos básicos
 ### 💡¿Qué es una nube de palabras?
@@ -26,7 +30,7 @@ Para una correcta ejecución de la práctica debe instalar en su entorno las sig
 - wordcloud
 
 ## 🏆 Visualice la práctica
-Visualice el cuaderno en nbviewer aquí:
-[Práctica: nube de palabras](https://nbviewer.org/github/jgcarrillo0/WordCloud_Practica/blob/main/Cuaderno/Word_cloud.ipynb)
+> [!TIP]
+> Visualice el cuaderno en nbviewer aquí: [Práctica: nube de palabras](https://nbviewer.org/github/jgcarrillo0/WordCloud_Practica/blob/main/Cuaderno/Word_cloud.ipynb)
 
 
